@@ -404,11 +404,20 @@ Result:
 
 <img width="386" height="101" alt="image" src="https://github.com/user-attachments/assets/345a8dab-99a6-43a6-a456-aae1dca718d3" />
 
+## Real-Time Insights Through Direct SQL Integration Between MySQL and Power BI
 
+This image shows the Power BI MySQL database connection window, where the server, database name, and SQL query are entered to load data directly from MySQL into Power BI.
 
+<img width="861" height="589" alt="image" src="https://github.com/user-attachments/assets/d242ee97-bcc7-4aa5-9cb2-3a6e026c3c75" />
 
+After importing the SQL query results into Power BI, the data was cleaned, modeled, and prepared for visualization. Various charts, KPIs, and filters were created to highlight key metrics such as revenue, sales trends, customer insights, and seller performance. These visuals were then combined into interactive dashboards that allow users to explore the data and understand business patterns easily. This end-to-end workflow enables clear, dynamic, and data-driven decision-making.
 
+## Dashboard Visualization
+### Amazon Ecommerce Sales Analysis
 
+<img width="1173" height="662" alt="Amazon Ecommerce Sales Analysis" src="https://github.com/user-attachments/assets/d5db0d89-b932-4ca1-a96f-7360b723432b" />
+
+### Dashboard Insights
 
 
 
