@@ -412,17 +412,87 @@ This image shows the Power BI MySQL database connection window, where the server
 
 After importing the SQL query results into Power BI, the data was cleaned, modeled, and prepared for visualization. Various charts, KPIs, and filters were created to highlight key metrics such as revenue, sales trends, customer insights, and seller performance. These visuals were then combined into interactive dashboards that allow users to explore the data and understand business patterns easily. This end-to-end workflow enables clear, dynamic, and data-driven decision-making.
 
-## Dashboard Visualization
-### Amazon Ecommerce Sales Analysis
+## DASHBOARD VISUALIZATION
+## Amazon Ecommerce Sales Analysis
 
 <img width="1173" height="662" alt="Amazon Ecommerce Sales Analysis" src="https://github.com/user-attachments/assets/d5db0d89-b932-4ca1-a96f-7360b723432b" />
 
-### Dashboard Insights
+## Dashboard Insights [Sales Analysis]
 
+### 1. Total Quantity, Revenue & Order Amount Cards
 
+These summary cards provide a quick snapshot of overall business performance. They display the total quantity sold, total revenue generated, and the total order amount, helping users instantly understand the scale of sales activity.
 
+### 2. Total Revenue by Category Chart
 
+This bar chart highlights how different product categories contribute to total revenue. It helps identify the top-performing categories such as Beauty, Grocery, and Electronics, enabling better product and inventory planning.
 
+### 3. Top 10 Product Sales Quantity Table
 
+This table lists the top-performing products based on quantity sold. It provides insights into customer preferences by showing which products drive the highest demand across categories.
 
+### 4. Revenue by State Chart
 
+The state-wise revenue chart visually compares revenue performance across different states. It helps identify high-revenue regions like Connecticut, North Dakota, and Pennsylvania, supporting regional sales strategies and targeted marketing.
+
+### 5. Contribution Percentage by Category Chart
+
+This donut chart shows the percentage share of each category in the total revenue. It helps users quickly understand category importance and overall product mix in the ecommerce business.
+
+### 6. Average Amount by Payment Type Chart
+
+This pie chart represents the variation in average order amount across payment methods such as Credit Card, Net Banking, Debit Card, COD, and UPI. It provides insights into customer payment preferences and transaction behavior.
+
+### 7. Monthly Sales Trend Chart
+
+This bar chart illustrates monthly sales patterns to identify growth trends, seasonal demand, and sales peaks. It helps track changes in revenue over time and understand business performance month by month.
+
+## Page Navigation Connection
+
+The page navigation arrow links Dashboard 1 and Dashboard 2, allowing users to switch between the Sales Analysis and Customer–Seller Analysis pages seamlessly. With a single click, the arrow redirects to the next page, creating an interactive and smooth report experience. This ensures both dashboards stay connected and easy to explore.
+
+## Amazon Ecommerce Customer & Seller Analysis
+
+<img width="1170" height="659" alt="Amazon Ecommerce Customer   Seller Analysis" src="https://github.com/user-attachments/assets/8748664f-8add-4c51-88a8-e9dd9a8c9923" />
+
+## Dashboard Insights [Customer & Seller Analysis]
+
+### 1. Total Customers, Products & Sellers Overview
+
+These KPI cards give a quick snapshot of the ecommerce ecosystem, showing the total number of customers, available products, and active sellers. This helps understand the scale of the business at a glance.
+
+### 2. Total Number of Customers by State
+
+This bar chart highlights customer distribution across different states. It helps identify regions with the highest customer presence—useful for targeted marketing and logistics planning.
+
+### 3. Top 10 Lifetime Purchase by Customer ID
+
+This visual ranks customers based on their lifetime purchase value. It helps identify high-value customers who contribute the most revenue, enabling focused retention strategies and personalized offers.
+
+### 4. Seller Performance Ranking
+
+This table ranks sellers according to their total revenue. It helps quickly identify top-performing sellers as well as those who may need performance improvement or support.
+
+### 5. Total Revenue by Seller
+
+This bar chart visually compares sellers based on total revenue generated. It highlights the key sellers driving business growth and helps monitor seller contribution over time.
+
+### 6. Running Total of Daily Sales
+
+This line and bar combination chart shows how sales accumulate month-by-month. It helps track sales growth trends, peak months, and overall sales movement across the year.
+
+## Conclusion
+
+The project demonstrates how Power BI visual analytics can provide clear insights into ecommerce performance across sales, customers, and sellers. Based on the analysis:
+
+- Strengthen top-performing product categories to increase overall revenue.
+
+- Improve support and incentives for mid-level sellers to boost their contribution.
+
+- Analyze high-value customers to create targeted retention and loyalty programs.
+
+- Monitor state-wise performance to optimize regional marketing strategies.
+
+- Use daily and monthly sales trends to plan inventory and promotional campaigns effectively.
+
+#### These actions will help improve sales growth, enhance customer engagement, and build a more efficient and data-driven ecommerce strategy.
