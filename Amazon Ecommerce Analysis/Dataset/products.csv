@@ -1,0 +1,1001 @@
+product_id,category,product_name,brand,price
+PROD_1,Mobile Accessories,Bed Plus,Boat,3279
+PROD_2,Fashion,President Prime,Sony,39412
+PROD_3,Beauty,Serve Plus,Boat,4697
+PROD_4,Beauty,Call Max,Boat,24237
+PROD_5,Home Appliances,Table Ultra,Nike,16090
+PROD_6,Grocery,Kitchen Pro,Sony,38949
+PROD_7,Fashion,Production Prime,Puma,40697
+PROD_8,Grocery,Through Ultra,Boat,26522
+PROD_9,Electronics,Mission Pro,Sony,13028
+PROD_10,Electronics,Middle Plus,Nike,24683
+PROD_11,Fashion,Guy Plus,Adidas,35505
+PROD_12,Mobile Accessories,Have Plus,Apple,37316
+PROD_13,Electronics,Film Plus,Sony,32820
+PROD_14,Grocery,Poor Plus,OnePlus,46299
+PROD_15,Sports,Wall Prime,Nike,22737
+PROD_16,Grocery,Finally Pro,Boat,38879
+PROD_17,Grocery,Civil Prime,Samsung,48660
+PROD_18,Fashion,Find Prime,Adidas,42761
+PROD_19,Grocery,Voice Max,Nike,6852
+PROD_20,Beauty,At Pro,Adidas,27662
+PROD_21,Beauty,Base Ultra,Apple,23154
+PROD_22,Grocery,Hear Prime,Adidas,15696
+PROD_23,Beauty,Control Ultra,Apple,22079
+PROD_24,Grocery,Market Prime,LG,12579
+PROD_25,Grocery,Skill Ultra,Apple,706
+PROD_26,Fashion,Letter Prime,OnePlus,16357
+PROD_27,Electronics,Garden Pro,OnePlus,17874
+PROD_28,Home Appliances,Including Pro,OnePlus,43981
+PROD_29,Home Appliances,After Ultra,OnePlus,22232
+PROD_30,Grocery,His Max,Puma,17741
+PROD_31,Beauty,Simply Max,Adidas,3047
+PROD_32,Home Appliances,Choice Ultra,Mi,3472
+PROD_33,Fashion,Attention Max,Sony,47957
+PROD_34,Sports,Bad Ultra,Apple,46430
+PROD_35,Fashion,Ok Prime,Nike,19765
+PROD_36,Beauty,Point Prime,Boat,8231
+PROD_37,Mobile Accessories,Seem Pro,Puma,21934
+PROD_38,Home Appliances,Republican Pro,Mi,9457
+PROD_39,Beauty,Table Ultra,Adidas,26772
+PROD_40,Sports,Study Prime,Apple,5321
+PROD_41,Beauty,Factor Max,Samsung,23014
+PROD_42,Sports,Cup Pro,Puma,31638
+PROD_43,Sports,Vote Pro,Mi,39475
+PROD_44,Beauty,Professional Pro,Mi,38346
+PROD_45,Beauty,Pay Max,Mi,994
+PROD_46,Mobile Accessories,Truth Max,LG,31940
+PROD_47,Fashion,Over Pro,Samsung,20658
+PROD_48,Sports,Nothing Ultra,Nike,4920
+PROD_49,Home Appliances,Yourself Plus,Sony,17309
+PROD_50,Electronics,Hot Plus,LG,32196
+PROD_51,Beauty,Big Ultra,OnePlus,30559
+PROD_52,Sports,Program Ultra,Apple,13433
+PROD_53,Mobile Accessories,Court Max,Samsung,15902
+PROD_54,Electronics,Six Prime,Boat,6512
+PROD_55,Beauty,Involve Plus,Mi,2984
+PROD_56,Beauty,Often Max,Puma,8759
+PROD_57,Fashion,Occur Prime,Adidas,10704
+PROD_58,Electronics,Wait Prime,Nike,16834
+PROD_59,Electronics,Want Prime,Apple,16929
+PROD_60,Sports,Improve Pro,Adidas,222
+PROD_61,Fashion,Care Max,Adidas,9025
+PROD_62,Beauty,Shake Plus,Adidas,27599
+PROD_63,Mobile Accessories,Law Pro,Sony,23625
+PROD_64,Beauty,Network Max,Nike,15971
+PROD_65,Mobile Accessories,We Plus,LG,19279
+PROD_66,Sports,Better Prime,Boat,28693
+PROD_67,Sports,Bring Plus,OnePlus,28752
+PROD_68,Fashion,State Prime,Nike,47377
+PROD_69,Fashion,Wall Plus,Apple,16054
+PROD_70,Grocery,Nor Plus,Boat,18737
+PROD_71,Beauty,Foot Ultra,Mi,27216
+PROD_72,Sports,In Pro,Samsung,30237
+PROD_73,Electronics,Tax Ultra,Mi,11440
+PROD_74,Electronics,Own Max,Puma,16619
+PROD_75,Beauty,Knowledge Plus,Puma,22650
+PROD_76,Home Appliances,On Prime,Puma,46780
+PROD_77,Electronics,Food Ultra,Nike,1798
+PROD_78,Beauty,Nearly Pro,Sony,36422
+PROD_79,Mobile Accessories,Service Ultra,Nike,37801
+PROD_80,Mobile Accessories,Watch Max,Boat,14911
+PROD_81,Mobile Accessories,Yet Pro,Mi,2144
+PROD_82,Grocery,Measure Ultra,Nike,28417
+PROD_83,Grocery,Say Pro,LG,47336
+PROD_84,Electronics,Picture Pro,Nike,30167
+PROD_85,Fashion,Study Prime,Samsung,47791
+PROD_86,Home Appliances,Try Plus,OnePlus,37182
+PROD_87,Beauty,Cultural Pro,Samsung,36594
+PROD_88,Mobile Accessories,Available Ultra,LG,526
+PROD_89,Electronics,Reason Prime,Boat,16407
+PROD_90,Sports,End Ultra,Puma,14194
+PROD_91,Mobile Accessories,Physical Pro,Sony,4570
+PROD_92,Grocery,Ok Ultra,Adidas,32672
+PROD_93,Mobile Accessories,Standard Pro,Samsung,5398
+PROD_94,Grocery,Wall Ultra,Sony,12687
+PROD_95,Mobile Accessories,Decide Plus,Samsung,35467
+PROD_96,Electronics,Population Pro,Sony,24396
+PROD_97,Fashion,Carry Max,Nike,32129
+PROD_98,Grocery,Cultural Pro,LG,33668
+PROD_99,Fashion,Off Prime,Nike,17928
+PROD_100,Home Appliances,Add Ultra,Apple,18793
+PROD_101,Mobile Accessories,Away Prime,Boat,4900
+PROD_102,Home Appliances,Drop Ultra,LG,42527
+PROD_103,Home Appliances,Stop Prime,Adidas,13019
+PROD_104,Electronics,Moment Max,Sony,10832
+PROD_105,Sports,Writer Plus,Puma,2461
+PROD_106,Fashion,Pick Pro,Mi,6290
+PROD_107,Electronics,Series Max,LG,2484
+PROD_108,Electronics,Environment Ultra,Samsung,25558
+PROD_109,Grocery,Store Prime,Boat,10701
+PROD_110,Home Appliances,That Ultra,Puma,33538
+PROD_111,Sports,Fight Ultra,Puma,24399
+PROD_112,Grocery,Before Prime,Boat,19317
+PROD_113,Electronics,Build Prime,OnePlus,34294
+PROD_114,Sports,Full Pro,Adidas,34175
+PROD_115,Electronics,Then Max,Boat,15318
+PROD_116,Sports,Agency Max,Mi,12827
+PROD_117,Home Appliances,Lay Ultra,Samsung,4300
+PROD_118,Electronics,Born Plus,Samsung,33001
+PROD_119,Mobile Accessories,Serious Prime,Puma,8729
+PROD_120,Mobile Accessories,Itself Plus,Adidas,34558
+PROD_121,Electronics,Site Pro,Sony,8856
+PROD_122,Home Appliances,Response Ultra,Apple,12725
+PROD_123,Fashion,Too Plus,LG,36609
+PROD_124,Mobile Accessories,At Ultra,Adidas,7724
+PROD_125,Mobile Accessories,Television Prime,OnePlus,16882
+PROD_126,Mobile Accessories,A Plus,Puma,229
+PROD_127,Fashion,Benefit Ultra,OnePlus,23363
+PROD_128,Mobile Accessories,Attention Plus,Mi,20276
+PROD_129,Grocery,After Plus,Samsung,48832
+PROD_130,Fashion,Brother Plus,OnePlus,26400
+PROD_131,Grocery,Example Ultra,LG,25290
+PROD_132,Fashion,Keep Ultra,Sony,3571
+PROD_133,Sports,Traditional Max,Mi,45139
+PROD_134,Fashion,Then Ultra,Apple,18959
+PROD_135,Beauty,Ten Ultra,Nike,42929
+PROD_136,Mobile Accessories,Mouth Ultra,Mi,43069
+PROD_137,Beauty,Find Ultra,OnePlus,22534
+PROD_138,Sports,Heart Plus,Mi,46029
+PROD_139,Mobile Accessories,Message Ultra,Mi,23190
+PROD_140,Home Appliances,Area Plus,Puma,48645
+PROD_141,Fashion,Top Prime,Samsung,1369
+PROD_142,Fashion,Physical Ultra,Samsung,40594
+PROD_143,Grocery,Own Pro,Mi,20003
+PROD_144,Electronics,Hold Ultra,OnePlus,37505
+PROD_145,Sports,Service Ultra,Samsung,12917
+PROD_146,Mobile Accessories,Soldier Pro,Apple,13923
+PROD_147,Sports,Produce Pro,Adidas,37637
+PROD_148,Sports,Mention Max,Adidas,34523
+PROD_149,Sports,Century Ultra,Boat,16365
+PROD_150,Home Appliances,Issue Pro,Apple,2948
+PROD_151,Electronics,Inside Max,OnePlus,33848
+PROD_152,Mobile Accessories,Hope Ultra,Sony,23456
+PROD_153,Electronics,Big Prime,Sony,1833
+PROD_154,Mobile Accessories,Him Ultra,Sony,34682
+PROD_155,Grocery,Same Pro,Apple,24317
+PROD_156,Mobile Accessories,Nation Plus,Puma,5532
+PROD_157,Fashion,Religious Pro,OnePlus,6100
+PROD_158,Sports,Movement Pro,Apple,36258
+PROD_159,Electronics,Up Max,Puma,45891
+PROD_160,Home Appliances,Make Plus,Nike,4971
+PROD_161,Home Appliances,Expect Prime,Apple,45037
+PROD_162,Sports,Voice Plus,Puma,36788
+PROD_163,Mobile Accessories,Make Ultra,Adidas,13870
+PROD_164,Electronics,View Plus,Adidas,13199
+PROD_165,Mobile Accessories,Reality Max,OnePlus,30454
+PROD_166,Fashion,Through Prime,LG,23368
+PROD_167,Beauty,Shake Prime,Apple,3688
+PROD_168,Fashion,Visit Plus,LG,14799
+PROD_169,Sports,Order Pro,Apple,18515
+PROD_170,Grocery,Main Pro,LG,45736
+PROD_171,Beauty,Enter Max,Puma,10014
+PROD_172,Sports,Eye Ultra,OnePlus,7551
+PROD_173,Beauty,Determine Prime,Puma,16654
+PROD_174,Fashion,Sense Ultra,LG,47948
+PROD_175,Electronics,Again Pro,LG,2070
+PROD_176,Fashion,Front Ultra,Mi,29321
+PROD_177,Mobile Accessories,Tree Plus,LG,48132
+PROD_178,Fashion,Man Pro,LG,1363
+PROD_179,Sports,Term Max,OnePlus,12369
+PROD_180,Sports,Everyone Pro,OnePlus,23513
+PROD_181,Fashion,Prevent Max,OnePlus,36161
+PROD_182,Electronics,Rich Prime,Nike,3107
+PROD_183,Grocery,Record Prime,OnePlus,14442
+PROD_184,Beauty,Create Pro,OnePlus,28088
+PROD_185,Home Appliances,Production Prime,Samsung,19131
+PROD_186,Mobile Accessories,Top Max,Boat,15760
+PROD_187,Sports,Forget Prime,Adidas,44824
+PROD_188,Fashion,Church Plus,Mi,48628
+PROD_189,Grocery,Thank Pro,Nike,39576
+PROD_190,Electronics,Kind Pro,Puma,2503
+PROD_191,Mobile Accessories,Letter Prime,Puma,8957
+PROD_192,Sports,Dog Plus,Apple,45150
+PROD_193,Sports,Hospital Max,Mi,43597
+PROD_194,Fashion,Miss Ultra,Apple,43071
+PROD_195,Grocery,Everyone Pro,Apple,8731
+PROD_196,Grocery,Station Prime,Sony,23501
+PROD_197,Mobile Accessories,Responsibility Prime,Samsung,34669
+PROD_198,Electronics,Paper Pro,Puma,4649
+PROD_199,Fashion,Common Prime,Sony,42676
+PROD_200,Home Appliances,Much Max,Adidas,19923
+PROD_201,Grocery,Military Ultra,Nike,49711
+PROD_202,Mobile Accessories,Wrong Prime,Mi,48019
+PROD_203,Fashion,Great Max,Mi,33193
+PROD_204,Beauty,Our Prime,LG,43957
+PROD_205,Grocery,Word Prime,Sony,25362
+PROD_206,Electronics,Country Pro,Mi,33835
+PROD_207,Grocery,Foreign Plus,Boat,12292
+PROD_208,Electronics,I Max,Samsung,6078
+PROD_209,Mobile Accessories,Everybody Ultra,Sony,38522
+PROD_210,Home Appliances,State Plus,Boat,44127
+PROD_211,Sports,Race Prime,Puma,35001
+PROD_212,Mobile Accessories,Relate Pro,OnePlus,40653
+PROD_213,Beauty,Assume Prime,Mi,41699
+PROD_214,Grocery,Hit Prime,Samsung,20925
+PROD_215,Mobile Accessories,See Plus,Mi,12312
+PROD_216,Electronics,Win Plus,Boat,39297
+PROD_217,Sports,Like Max,Samsung,15745
+PROD_218,Fashion,Pull Pro,Samsung,9443
+PROD_219,Home Appliances,Set Plus,Boat,25874
+PROD_220,Grocery,Safe Ultra,Apple,8237
+PROD_221,Electronics,Foot Prime,Mi,16443
+PROD_222,Sports,Who Pro,LG,49400
+PROD_223,Home Appliances,Game Pro,OnePlus,11753
+PROD_224,Sports,Share Max,Nike,25203
+PROD_225,Home Appliances,Nice Plus,Mi,31529
+PROD_226,Grocery,Including Plus,OnePlus,37089
+PROD_227,Grocery,Especially Plus,Apple,9763
+PROD_228,Beauty,North Pro,Puma,374
+PROD_229,Fashion,More Plus,Nike,47135
+PROD_230,Sports,Room Ultra,Apple,28127
+PROD_231,Beauty,Now Pro,Mi,49213
+PROD_232,Electronics,Raise Pro,Mi,48249
+PROD_233,Home Appliances,Enjoy Ultra,LG,39074
+PROD_234,Fashion,Time Pro,Adidas,14021
+PROD_235,Sports,Piece Max,Adidas,13259
+PROD_236,Beauty,Try Prime,Sony,21193
+PROD_237,Electronics,Financial Max,Sony,32588
+PROD_238,Mobile Accessories,Food Ultra,OnePlus,25430
+PROD_239,Electronics,Might Pro,Mi,38597
+PROD_240,Electronics,Public Ultra,Sony,19668
+PROD_241,Home Appliances,Gas Pro,LG,40242
+PROD_242,Grocery,Player Plus,Puma,37443
+PROD_243,Home Appliances,Place Pro,OnePlus,13581
+PROD_244,Mobile Accessories,Receive Prime,Adidas,14367
+PROD_245,Fashion,Serve Ultra,Samsung,49837
+PROD_246,Grocery,Issue Prime,Boat,49139
+PROD_247,Beauty,Term Ultra,Puma,23346
+PROD_248,Beauty,Medical Ultra,Nike,46146
+PROD_249,Fashion,Pm Pro,Adidas,35956
+PROD_250,Mobile Accessories,Should Max,Boat,30312
+PROD_251,Grocery,Watch Max,Samsung,14717
+PROD_252,Beauty,Information Plus,OnePlus,40620
+PROD_253,Fashion,Wrong Prime,LG,40672
+PROD_254,Grocery,Choose Pro,Sony,18162
+PROD_255,Home Appliances,Fly Prime,Adidas,40395
+PROD_256,Home Appliances,Enjoy Max,Samsung,34581
+PROD_257,Mobile Accessories,Recent Max,OnePlus,12411
+PROD_258,Fashion,Morning Ultra,Apple,41857
+PROD_259,Beauty,Material Max,OnePlus,10597
+PROD_260,Fashion,Light Ultra,Puma,49538
+PROD_261,Home Appliances,Ball Prime,LG,24247
+PROD_262,Mobile Accessories,Quickly Ultra,Adidas,24818
+PROD_263,Grocery,Member Plus,Sony,31710
+PROD_264,Grocery,Close Ultra,Puma,2919
+PROD_265,Beauty,Remain Ultra,Samsung,45612
+PROD_266,Beauty,Understand Max,Adidas,3482
+PROD_267,Grocery,Reveal Max,Sony,25330
+PROD_268,Sports,Bill Prime,Boat,17306
+PROD_269,Beauty,Child Plus,Boat,44328
+PROD_270,Mobile Accessories,Total Plus,LG,710
+PROD_271,Beauty,Article Plus,Boat,39992
+PROD_272,Beauty,Thought Max,Mi,24791
+PROD_273,Home Appliances,Push Max,Mi,721
+PROD_274,Beauty,Hot Prime,LG,41047
+PROD_275,Sports,Head Max,Boat,40011
+PROD_276,Grocery,For Ultra,Sony,27593
+PROD_277,Grocery,Ask Ultra,Nike,33373
+PROD_278,Electronics,Heart Plus,Sony,49753
+PROD_279,Beauty,Drive Pro,Sony,36132
+PROD_280,Beauty,Continue Plus,Sony,34000
+PROD_281,Mobile Accessories,Less Prime,Mi,48953
+PROD_282,Sports,Ahead Ultra,Adidas,17362
+PROD_283,Fashion,Friend Ultra,Adidas,30121
+PROD_284,Electronics,Drive Plus,LG,2837
+PROD_285,Fashion,Officer Pro,Puma,15867
+PROD_286,Home Appliances,Protect Prime,Sony,12951
+PROD_287,Fashion,Almost Ultra,LG,49501
+PROD_288,Grocery,Scene Pro,OnePlus,30443
+PROD_289,Home Appliances,Most Ultra,Adidas,1505
+PROD_290,Fashion,Summer Prime,Nike,34019
+PROD_291,Mobile Accessories,Hotel Plus,Adidas,1527
+PROD_292,Grocery,Peace Prime,Apple,42838
+PROD_293,Home Appliances,Not Pro,Samsung,12698
+PROD_294,Home Appliances,Say Prime,Apple,22550
+PROD_295,Mobile Accessories,Turn Pro,Samsung,40968
+PROD_296,Electronics,Wait Plus,Nike,18313
+PROD_297,Home Appliances,No Max,LG,41871
+PROD_298,Beauty,Most Ultra,Samsung,18204
+PROD_299,Home Appliances,Mrs Prime,Mi,28536
+PROD_300,Beauty,Team Ultra,Adidas,46415
+PROD_301,Electronics,Area Max,Mi,24227
+PROD_302,Mobile Accessories,Find Max,Adidas,39402
+PROD_303,Mobile Accessories,However Pro,Mi,40189
+PROD_304,Beauty,West Pro,Samsung,22358
+PROD_305,Beauty,Week Ultra,Mi,4836
+PROD_306,Mobile Accessories,Involve Ultra,Boat,43472
+PROD_307,Fashion,Manager Max,Samsung,43018
+PROD_308,Home Appliances,Possible Prime,Sony,373
+PROD_309,Home Appliances,Under Max,OnePlus,18754
+PROD_310,Beauty,Four Pro,Adidas,30372
+PROD_311,Sports,This Ultra,Boat,13588
+PROD_312,Grocery,Above Pro,OnePlus,25567
+PROD_313,Sports,Anyone Plus,Sony,27286
+PROD_314,Home Appliances,Station Ultra,Sony,32377
+PROD_315,Beauty,Modern Ultra,OnePlus,36085
+PROD_316,Home Appliances,Across Pro,Mi,33114
+PROD_317,Sports,Month Prime,Puma,12738
+PROD_318,Grocery,Process Plus,Samsung,9208
+PROD_319,Grocery,Trouble Ultra,Puma,39944
+PROD_320,Fashion,Cut Ultra,Adidas,16332
+PROD_321,Electronics,Impact Ultra,Adidas,40291
+PROD_322,Grocery,Carry Plus,OnePlus,36045
+PROD_323,Electronics,List Max,Puma,42678
+PROD_324,Fashion,Culture Pro,Boat,30003
+PROD_325,Grocery,Set Ultra,Boat,26912
+PROD_326,Grocery,Technology Pro,Samsung,23821
+PROD_327,Beauty,At Ultra,Samsung,20284
+PROD_328,Sports,Wish Pro,Puma,6896
+PROD_329,Home Appliances,Individual Ultra,Samsung,42085
+PROD_330,Sports,Fish Prime,Sony,2967
+PROD_331,Beauty,Piece Prime,Mi,3869
+PROD_332,Grocery,Move Prime,OnePlus,25378
+PROD_333,Sports,Night Prime,Mi,37310
+PROD_334,Sports,Score Pro,Samsung,1836
+PROD_335,Fashion,Blood Prime,OnePlus,24849
+PROD_336,Home Appliances,Step Pro,Puma,42897
+PROD_337,Electronics,Past Plus,LG,38217
+PROD_338,Electronics,Middle Ultra,Puma,6935
+PROD_339,Mobile Accessories,Lay Prime,Mi,2241
+PROD_340,Electronics,Card Plus,Boat,4945
+PROD_341,Grocery,Decade Plus,Adidas,27944
+PROD_342,Grocery,Enough Prime,Puma,7714
+PROD_343,Sports,Laugh Ultra,Sony,24483
+PROD_344,Beauty,Effort Ultra,Boat,46002
+PROD_345,Beauty,Subject Pro,Boat,10898
+PROD_346,Home Appliances,Tonight Max,Adidas,36101
+PROD_347,Home Appliances,Common Ultra,Boat,31402
+PROD_348,Fashion,Between Ultra,OnePlus,46363
+PROD_349,Mobile Accessories,Such Plus,Puma,2940
+PROD_350,Home Appliances,Ahead Pro,Mi,25573
+PROD_351,Electronics,Professor Max,Apple,42189
+PROD_352,Grocery,Raise Ultra,Apple,17417
+PROD_353,Mobile Accessories,Through Ultra,Puma,8745
+PROD_354,Fashion,Stay Prime,Puma,35630
+PROD_355,Beauty,Step Max,Apple,41013
+PROD_356,Beauty,Argue Pro,Adidas,5903
+PROD_357,Sports,All Pro,Mi,46658
+PROD_358,Sports,From Max,Nike,8542
+PROD_359,Home Appliances,Similar Prime,Boat,25455
+PROD_360,Mobile Accessories,Help Ultra,Boat,3523
+PROD_361,Home Appliances,Minute Plus,Boat,32107
+PROD_362,Fashion,Every Plus,Puma,34251
+PROD_363,Grocery,Seat Prime,Sony,45789
+PROD_364,Beauty,Seem Max,LG,25598
+PROD_365,Home Appliances,Guess Plus,OnePlus,22038
+PROD_366,Beauty,Interesting Pro,Adidas,26138
+PROD_367,Sports,Easy Pro,Mi,38001
+PROD_368,Grocery,Choice Prime,Apple,10292
+PROD_369,Electronics,Goal Prime,Apple,21156
+PROD_370,Home Appliances,Development Prime,OnePlus,31119
+PROD_371,Grocery,Interest Ultra,Sony,27331
+PROD_372,Fashion,Reality Pro,Apple,33779
+PROD_373,Sports,Factor Ultra,Boat,39682
+PROD_374,Sports,Ok Ultra,Nike,41355
+PROD_375,Sports,Ball Pro,Apple,8488
+PROD_376,Grocery,Animal Plus,Adidas,37730
+PROD_377,Sports,Scene Pro,Puma,14798
+PROD_378,Home Appliances,Approach Prime,Boat,26323
+PROD_379,Sports,Today Plus,Sony,25327
+PROD_380,Electronics,Crime Prime,Mi,49198
+PROD_381,Home Appliances,Positive Plus,Nike,31916
+PROD_382,Home Appliances,Doctor Ultra,Nike,5453
+PROD_383,Sports,Truth Ultra,Nike,8564
+PROD_384,Grocery,Happen Plus,Boat,7168
+PROD_385,Fashion,Month Pro,Apple,10325
+PROD_386,Electronics,Program Plus,Puma,28815
+PROD_387,Fashion,Across Pro,Sony,27988
+PROD_388,Electronics,Pretty Plus,Sony,27869
+PROD_389,Sports,Think Ultra,Adidas,41834
+PROD_390,Home Appliances,To Max,OnePlus,25789
+PROD_391,Beauty,Share Pro,Samsung,38756
+PROD_392,Home Appliances,Perform Max,Apple,29994
+PROD_393,Grocery,View Pro,LG,8520
+PROD_394,Sports,Never Pro,Boat,2490
+PROD_395,Fashion,Strategy Plus,Sony,10972
+PROD_396,Home Appliances,Strong Prime,Adidas,953
+PROD_397,Home Appliances,Real Prime,Apple,9881
+PROD_398,Home Appliances,Last Plus,Boat,10889
+PROD_399,Fashion,Movement Max,Samsung,477
+PROD_400,Grocery,Improve Ultra,Samsung,26256
+PROD_401,Home Appliances,Type Plus,Adidas,11355
+PROD_402,Beauty,Author Ultra,Boat,16221
+PROD_403,Grocery,Policy Ultra,Adidas,26261
+PROD_404,Home Appliances,Religious Max,Adidas,39025
+PROD_405,Beauty,Daughter Max,Sony,34397
+PROD_406,Mobile Accessories,Politics Prime,Nike,47193
+PROD_407,Grocery,Themselves Pro,LG,37378
+PROD_408,Home Appliances,Seven Ultra,OnePlus,18806
+PROD_409,Home Appliances,Sort Plus,Mi,39242
+PROD_410,Sports,Case Plus,Puma,41539
+PROD_411,Electronics,Sure Ultra,Puma,24185
+PROD_412,Grocery,Place Prime,Sony,28794
+PROD_413,Mobile Accessories,Change Plus,LG,44663
+PROD_414,Mobile Accessories,Future Ultra,Sony,33151
+PROD_415,Fashion,Old Ultra,Apple,3292
+PROD_416,Fashion,Home Max,OnePlus,3106
+PROD_417,Fashion,Mean Max,Apple,6125
+PROD_418,Beauty,Tell Max,Boat,16011
+PROD_419,Mobile Accessories,Argue Max,Puma,47231
+PROD_420,Fashion,Job Ultra,Mi,28231
+PROD_421,Sports,Old Max,Boat,41053
+PROD_422,Beauty,Us Pro,Sony,30097
+PROD_423,Sports,Week Pro,Boat,39815
+PROD_424,Fashion,Knowledge Max,Samsung,23082
+PROD_425,Grocery,Raise Ultra,Nike,29326
+PROD_426,Electronics,Commercial Plus,LG,22459
+PROD_427,Sports,Company Max,Samsung,24670
+PROD_428,Fashion,Life Prime,Boat,36151
+PROD_429,Grocery,Safe Prime,Sony,27065
+PROD_430,Grocery,Apply Pro,Boat,11646
+PROD_431,Mobile Accessories,Else Pro,Adidas,35336
+PROD_432,Fashion,Up Plus,Samsung,12159
+PROD_433,Electronics,Money Max,OnePlus,22175
+PROD_434,Mobile Accessories,Difficult Prime,Puma,40343
+PROD_435,Mobile Accessories,Under Prime,OnePlus,49691
+PROD_436,Electronics,Table Ultra,Mi,15374
+PROD_437,Sports,Wide Pro,Sony,12827
+PROD_438,Home Appliances,Hour Plus,Boat,31712
+PROD_439,Electronics,Population Max,Mi,951
+PROD_440,Grocery,Now Ultra,Adidas,14307
+PROD_441,Beauty,With Plus,Puma,46972
+PROD_442,Beauty,Place Pro,Sony,48998
+PROD_443,Mobile Accessories,Out Pro,Sony,32181
+PROD_444,Mobile Accessories,About Ultra,Puma,31154
+PROD_445,Electronics,Agency Plus,Adidas,8267
+PROD_446,Electronics,Vote Max,Sony,10070
+PROD_447,Beauty,Total Max,Apple,21926
+PROD_448,Mobile Accessories,Successful Plus,Sony,606
+PROD_449,Beauty,Probably Max,Samsung,3660
+PROD_450,Grocery,Decide Ultra,OnePlus,31639
+PROD_451,Home Appliances,Fear Max,Boat,27498
+PROD_452,Home Appliances,Challenge Ultra,Sony,15556
+PROD_453,Electronics,Evidence Plus,Samsung,45951
+PROD_454,Beauty,Federal Ultra,Boat,33884
+PROD_455,Fashion,Tell Pro,Boat,29589
+PROD_456,Home Appliances,Common Plus,Samsung,36978
+PROD_457,Grocery,Indeed Prime,Adidas,20420
+PROD_458,Mobile Accessories,Always Prime,Mi,2051
+PROD_459,Grocery,No Max,Sony,37810
+PROD_460,Sports,Yes Max,Sony,27894
+PROD_461,Sports,That Prime,Sony,46939
+PROD_462,Sports,Occur Prime,Apple,45375
+PROD_463,Home Appliances,Create Prime,Samsung,25783
+PROD_464,Home Appliances,Serious Max,Nike,33224
+PROD_465,Home Appliances,Hair Pro,Puma,9325
+PROD_466,Electronics,Across Pro,Sony,34660
+PROD_467,Electronics,Three Plus,Nike,33207
+PROD_468,Beauty,Traditional Prime,Sony,45363
+PROD_469,Sports,Baby Ultra,OnePlus,8457
+PROD_470,Electronics,A Prime,Nike,5502
+PROD_471,Beauty,Property Pro,Mi,9102
+PROD_472,Beauty,Base Plus,LG,36036
+PROD_473,Fashion,Baby Max,Nike,23465
+PROD_474,Electronics,Everything Prime,Adidas,9454
+PROD_475,Beauty,Suffer Plus,Puma,30526
+PROD_476,Mobile Accessories,Attorney Pro,Boat,42236
+PROD_477,Fashion,Eight Max,Apple,44436
+PROD_478,Electronics,Either Prime,Sony,22155
+PROD_479,Electronics,Weight Pro,Adidas,5180
+PROD_480,Home Appliances,Vote Pro,Samsung,34939
+PROD_481,Sports,Call Prime,Puma,1581
+PROD_482,Grocery,Form Max,Apple,9671
+PROD_483,Beauty,If Pro,OnePlus,7338
+PROD_484,Mobile Accessories,Chance Ultra,OnePlus,5492
+PROD_485,Electronics,Keep Prime,Apple,21709
+PROD_486,Electronics,Spend Ultra,Samsung,49517
+PROD_487,Fashion,Everyone Max,LG,36131
+PROD_488,Electronics,Court Plus,Apple,18428
+PROD_489,Mobile Accessories,Measure Plus,Apple,14921
+PROD_490,Electronics,Always Ultra,LG,36429
+PROD_491,Sports,Happen Prime,Mi,29890
+PROD_492,Grocery,Thank Ultra,Adidas,14873
+PROD_493,Mobile Accessories,Sport Pro,OnePlus,8594
+PROD_494,Grocery,Really Prime,Mi,13564
+PROD_495,Fashion,Above Ultra,Apple,46005
+PROD_496,Sports,Win Ultra,LG,49558
+PROD_497,Electronics,Him Max,LG,34412
+PROD_498,Beauty,Kind Max,OnePlus,12910
+PROD_499,Sports,Improve Plus,Nike,10272
+PROD_500,Mobile Accessories,Walk Max,OnePlus,27065
+PROD_501,Grocery,Occur Ultra,Apple,1046
+PROD_502,Sports,Several Pro,Mi,914
+PROD_503,Electronics,Cut Prime,Adidas,34523
+PROD_504,Beauty,Various Pro,LG,17046
+PROD_505,Fashion,Especially Prime,LG,19769
+PROD_506,Grocery,Community Pro,Apple,41601
+PROD_507,Home Appliances,Majority Plus,Nike,4079
+PROD_508,Electronics,Clearly Plus,Sony,28214
+PROD_509,Electronics,Whole Ultra,Boat,26652
+PROD_510,Grocery,Anything Max,LG,44424
+PROD_511,Electronics,Process Pro,Nike,27458
+PROD_512,Sports,Foreign Pro,Sony,34546
+PROD_513,Beauty,Heart Pro,LG,500
+PROD_514,Mobile Accessories,Economy Max,LG,41177
+PROD_515,Sports,At Pro,Mi,44333
+PROD_516,Electronics,Nothing Ultra,Apple,36966
+PROD_517,Electronics,Stage Pro,OnePlus,19004
+PROD_518,Grocery,Need Prime,Boat,32268
+PROD_519,Sports,Among Max,Adidas,5794
+PROD_520,Beauty,Per Ultra,OnePlus,2221
+PROD_521,Sports,Reality Prime,Boat,1440
+PROD_522,Sports,Establish Ultra,OnePlus,34482
+PROD_523,Home Appliances,Test Plus,Mi,28737
+PROD_524,Home Appliances,Fast Plus,Nike,21434
+PROD_525,Fashion,According Pro,OnePlus,48992
+PROD_526,Home Appliances,Address Pro,OnePlus,10366
+PROD_527,Electronics,Suddenly Max,Adidas,25003
+PROD_528,Sports,Adult Max,LG,47158
+PROD_529,Sports,Person Prime,LG,46513
+PROD_530,Grocery,Eight Plus,Puma,15096
+PROD_531,Grocery,Crime Plus,LG,37432
+PROD_532,Sports,Right Plus,Boat,4775
+PROD_533,Sports,Gun Prime,Mi,15492
+PROD_534,Beauty,Another Pro,Samsung,24489
+PROD_535,Electronics,Human Ultra,OnePlus,24069
+PROD_536,Fashion,Side Prime,Adidas,10974
+PROD_537,Mobile Accessories,Fall Max,OnePlus,2911
+PROD_538,Electronics,Among Ultra,Puma,8226
+PROD_539,Beauty,Especially Max,Sony,521
+PROD_540,Home Appliances,Night Ultra,Puma,34268
+PROD_541,Electronics,Within Plus,Nike,24275
+PROD_542,Grocery,Trouble Prime,Sony,42326
+PROD_543,Home Appliances,Take Ultra,Boat,8938
+PROD_544,Grocery,Money Pro,LG,1088
+PROD_545,Sports,Chair Max,Boat,4839
+PROD_546,Fashion,Consumer Pro,LG,47007
+PROD_547,Sports,Participant Ultra,Adidas,3273
+PROD_548,Fashion,Land Pro,Adidas,49693
+PROD_549,Mobile Accessories,Seat Ultra,Nike,25099
+PROD_550,Grocery,Vote Ultra,Samsung,41160
+PROD_551,Electronics,Around Pro,Boat,8939
+PROD_552,Electronics,Involve Plus,Nike,757
+PROD_553,Fashion,Adult Max,Sony,13921
+PROD_554,Home Appliances,Simple Plus,Apple,3800
+PROD_555,Mobile Accessories,Sound Ultra,Nike,26934
+PROD_556,Mobile Accessories,Collection Max,Samsung,9805
+PROD_557,Mobile Accessories,Social Ultra,Puma,1569
+PROD_558,Home Appliances,Different Prime,Nike,10708
+PROD_559,Electronics,One Max,Nike,5857
+PROD_560,Beauty,Religious Plus,Apple,44224
+PROD_561,Grocery,Energy Pro,Nike,2482
+PROD_562,Fashion,Other Plus,OnePlus,11856
+PROD_563,Grocery,Power Max,Nike,6042
+PROD_564,Mobile Accessories,Throughout Prime,Mi,4846
+PROD_565,Grocery,When Ultra,Samsung,35533
+PROD_566,Beauty,Bar Pro,OnePlus,38540
+PROD_567,Beauty,Father Plus,OnePlus,47565
+PROD_568,Sports,Civil Ultra,OnePlus,18514
+PROD_569,Electronics,Firm Pro,Adidas,10596
+PROD_570,Home Appliances,Also Prime,Sony,26151
+PROD_571,Fashion,Candidate Pro,Nike,9164
+PROD_572,Mobile Accessories,Safe Plus,Apple,26377
+PROD_573,Beauty,Yet Prime,Samsung,48117
+PROD_574,Electronics,Focus Max,Nike,40417
+PROD_575,Electronics,Too Plus,Mi,6894
+PROD_576,Home Appliances,Mr Max,Adidas,26769
+PROD_577,Mobile Accessories,Expect Plus,LG,11078
+PROD_578,Mobile Accessories,Attack Max,LG,9358
+PROD_579,Beauty,Story Plus,Mi,34546
+PROD_580,Fashion,Design Ultra,Boat,35545
+PROD_581,Sports,Half Pro,Nike,46144
+PROD_582,Electronics,Successful Prime,Apple,7465
+PROD_583,Sports,Know Prime,Sony,1062
+PROD_584,Grocery,Risk Prime,Sony,19095
+PROD_585,Electronics,Pull Plus,OnePlus,49032
+PROD_586,Home Appliances,Sea Plus,Nike,19471
+PROD_587,Electronics,Direction Ultra,Puma,10475
+PROD_588,Electronics,Owner Prime,OnePlus,4602
+PROD_589,Sports,Might Pro,Puma,19457
+PROD_590,Electronics,Let Max,Adidas,15022
+PROD_591,Grocery,Respond Prime,Apple,43529
+PROD_592,Sports,Wear Pro,LG,49830
+PROD_593,Grocery,Large Max,Boat,44641
+PROD_594,Grocery,Debate Pro,Puma,19811
+PROD_595,Mobile Accessories,Recently Plus,Mi,13736
+PROD_596,Home Appliances,Full Max,Puma,547
+PROD_597,Grocery,Worker Ultra,Mi,12840
+PROD_598,Electronics,Student Plus,Puma,13812
+PROD_599,Electronics,Thank Max,Sony,33622
+PROD_600,Fashion,Your Plus,Sony,6460
+PROD_601,Beauty,Perform Ultra,Apple,34792
+PROD_602,Beauty,Cold Plus,Mi,46938
+PROD_603,Fashion,Offer Pro,Puma,3982
+PROD_604,Sports,Green Plus,Mi,13416
+PROD_605,Beauty,There Prime,Mi,38224
+PROD_606,Grocery,Mean Plus,Boat,38465
+PROD_607,Fashion,Day Ultra,Boat,31519
+PROD_608,Home Appliances,Worry Plus,Adidas,42507
+PROD_609,Grocery,Evening Max,Boat,12280
+PROD_610,Grocery,Their Prime,OnePlus,23148
+PROD_611,Home Appliances,Purpose Plus,Sony,1920
+PROD_612,Fashion,Reason Pro,Samsung,42379
+PROD_613,Grocery,Common Plus,Adidas,33794
+PROD_614,Beauty,As Max,Mi,28366
+PROD_615,Home Appliances,Read Pro,Apple,18250
+PROD_616,Grocery,South Ultra,Sony,35385
+PROD_617,Grocery,Source Plus,Puma,25132
+PROD_618,Mobile Accessories,Statement Ultra,Nike,42789
+PROD_619,Sports,House Max,Adidas,25103
+PROD_620,Sports,Pass Prime,Samsung,28372
+PROD_621,Grocery,Under Ultra,Boat,33090
+PROD_622,Electronics,Arm Ultra,Puma,38321
+PROD_623,Mobile Accessories,Yet Ultra,Nike,40083
+PROD_624,Electronics,Assume Ultra,Boat,46768
+PROD_625,Fashion,Order Ultra,Nike,31972
+PROD_626,Electronics,Image Prime,OnePlus,10113
+PROD_627,Home Appliances,Garden Pro,Mi,15514
+PROD_628,Home Appliances,Deal Plus,Sony,6671
+PROD_629,Grocery,Entire Plus,Puma,12079
+PROD_630,Grocery,Few Plus,Adidas,12299
+PROD_631,Electronics,Street Pro,OnePlus,5130
+PROD_632,Fashion,Yard Pro,Adidas,23905
+PROD_633,Electronics,Kind Ultra,Samsung,1492
+PROD_634,Fashion,Wonder Ultra,Puma,15709
+PROD_635,Fashion,End Ultra,Sony,9649
+PROD_636,Mobile Accessories,Wife Plus,Boat,33161
+PROD_637,Home Appliances,Well Plus,Sony,34865
+PROD_638,Grocery,His Ultra,Boat,13622
+PROD_639,Electronics,Enter Prime,Boat,47084
+PROD_640,Fashion,Out Max,Boat,14198
+PROD_641,Home Appliances,Local Plus,Apple,30412
+PROD_642,Mobile Accessories,Myself Ultra,Nike,40179
+PROD_643,Grocery,Guy Prime,OnePlus,8482
+PROD_644,Electronics,Keep Plus,LG,44290
+PROD_645,Grocery,Wall Plus,Nike,40874
+PROD_646,Electronics,Sometimes Max,Mi,21964
+PROD_647,Fashion,Range Pro,Adidas,6755
+PROD_648,Mobile Accessories,Research Plus,LG,25293
+PROD_649,Electronics,Little Ultra,Sony,28122
+PROD_650,Fashion,Sit Plus,Adidas,23983
+PROD_651,Home Appliances,From Plus,Mi,44581
+PROD_652,Fashion,Budget Plus,Samsung,34576
+PROD_653,Mobile Accessories,Necessary Prime,Samsung,15873
+PROD_654,Beauty,List Prime,LG,35987
+PROD_655,Beauty,Rule Ultra,Apple,44375
+PROD_656,Fashion,Perform Ultra,Apple,18172
+PROD_657,Fashion,Republican Pro,OnePlus,14679
+PROD_658,Fashion,Know Prime,Puma,12947
+PROD_659,Home Appliances,Different Max,Apple,27180
+PROD_660,Home Appliances,Him Plus,Adidas,2045
+PROD_661,Sports,Be Prime,Nike,48780
+PROD_662,Electronics,Difficult Ultra,Boat,26618
+PROD_663,Home Appliances,Offer Plus,Mi,45078
+PROD_664,Electronics,She Pro,Nike,16901
+PROD_665,Grocery,Inside Prime,Mi,15783
+PROD_666,Fashion,Our Plus,Samsung,7247
+PROD_667,Grocery,Him Plus,Samsung,39837
+PROD_668,Home Appliances,Arrive Ultra,Apple,17449
+PROD_669,Sports,Old Pro,Mi,28394
+PROD_670,Electronics,Keep Pro,Adidas,47421
+PROD_671,Beauty,Tax Pro,Puma,11501
+PROD_672,Fashion,Foreign Plus,LG,46449
+PROD_673,Sports,Over Prime,Nike,19524
+PROD_674,Home Appliances,International Ultra,Boat,37350
+PROD_675,Home Appliances,Station Max,Nike,20512
+PROD_676,Grocery,System Max,Mi,14203
+PROD_677,Beauty,Draw Max,Sony,39682
+PROD_678,Home Appliances,Image Pro,Nike,14258
+PROD_679,Grocery,Democratic Ultra,LG,30679
+PROD_680,Mobile Accessories,Course Pro,Apple,30845
+PROD_681,Fashion,Little Pro,Mi,43804
+PROD_682,Home Appliances,Brother Pro,Apple,40622
+PROD_683,Beauty,Land Ultra,Adidas,24937
+PROD_684,Fashion,Eye Plus,Apple,27839
+PROD_685,Mobile Accessories,Long Max,Nike,10652
+PROD_686,Electronics,Claim Max,LG,21388
+PROD_687,Fashion,Note Max,Boat,29080
+PROD_688,Mobile Accessories,Yes Pro,Mi,15001
+PROD_689,Mobile Accessories,Ever Ultra,Puma,5546
+PROD_690,Fashion,Letter Prime,Nike,30690
+PROD_691,Sports,Should Plus,Apple,9569
+PROD_692,Beauty,Keep Prime,Apple,35754
+PROD_693,Sports,Federal Pro,Apple,9585
+PROD_694,Sports,Ground Max,Apple,15592
+PROD_695,Sports,Then Max,Apple,44453
+PROD_696,Sports,Their Ultra,Sony,37367
+PROD_697,Grocery,Peace Plus,Puma,23049
+PROD_698,Grocery,Professional Prime,Puma,6371
+PROD_699,Fashion,Interest Pro,Mi,32565
+PROD_700,Electronics,Difficult Ultra,Adidas,29527
+PROD_701,Mobile Accessories,Situation Plus,Apple,10776
+PROD_702,Home Appliances,Bag Plus,OnePlus,27606
+PROD_703,Grocery,Available Plus,OnePlus,43512
+PROD_704,Sports,Production Pro,Mi,32079
+PROD_705,Mobile Accessories,Increase Prime,Samsung,20516
+PROD_706,Mobile Accessories,Operation Plus,Mi,15139
+PROD_707,Mobile Accessories,Owner Ultra,Puma,5536
+PROD_708,Fashion,Themselves Pro,Apple,48715
+PROD_709,Sports,Religious Plus,Sony,32546
+PROD_710,Home Appliances,One Pro,LG,5165
+PROD_711,Fashion,Reality Prime,Boat,5260
+PROD_712,Electronics,Board Ultra,Sony,31967
+PROD_713,Electronics,Force Max,OnePlus,15606
+PROD_714,Mobile Accessories,Land Max,Adidas,35780
+PROD_715,Beauty,To Plus,Puma,27757
+PROD_716,Fashion,Feel Plus,Adidas,23309
+PROD_717,Electronics,Figure Pro,Nike,7370
+PROD_718,Electronics,Chair Max,Mi,44069
+PROD_719,Mobile Accessories,Mother Pro,Adidas,25516
+PROD_720,Beauty,Local Pro,Puma,19186
+PROD_721,Grocery,Series Ultra,LG,378
+PROD_722,Beauty,Take Plus,Sony,16755
+PROD_723,Mobile Accessories,Already Ultra,LG,2854
+PROD_724,Grocery,Affect Plus,Apple,47425
+PROD_725,Fashion,Rich Prime,Puma,17766
+PROD_726,Beauty,Address Prime,Mi,47926
+PROD_727,Mobile Accessories,Way Max,Mi,1578
+PROD_728,Electronics,Chair Ultra,Sony,26019
+PROD_729,Beauty,Eight Prime,Mi,46152
+PROD_730,Mobile Accessories,Put Max,Mi,1312
+PROD_731,Home Appliances,Success Plus,Adidas,35328
+PROD_732,Beauty,How Ultra,Boat,49424
+PROD_733,Sports,Data Prime,Boat,39893
+PROD_734,Electronics,Operation Max,LG,34775
+PROD_735,Sports,Rock Max,Adidas,40681
+PROD_736,Electronics,Watch Plus,Puma,25696
+PROD_737,Home Appliances,Goal Plus,OnePlus,5498
+PROD_738,Home Appliances,Operation Prime,Boat,24083
+PROD_739,Beauty,Line Pro,Mi,49443
+PROD_740,Fashion,Create Ultra,Sony,48023
+PROD_741,Electronics,Western Ultra,Puma,49014
+PROD_742,Beauty,Even Prime,Mi,31115
+PROD_743,Fashion,Main Ultra,Apple,28881
+PROD_744,Fashion,Discover Ultra,OnePlus,29620
+PROD_745,Beauty,Then Plus,Adidas,35753
+PROD_746,Beauty,No Pro,Sony,2032
+PROD_747,Mobile Accessories,Crime Pro,Apple,43558
+PROD_748,Sports,During Ultra,LG,28220
+PROD_749,Grocery,Protect Pro,Nike,34276
+PROD_750,Grocery,Form Max,LG,7745
+PROD_751,Electronics,Step Prime,OnePlus,37394
+PROD_752,Fashion,Eat Ultra,LG,12550
+PROD_753,Grocery,Personal Pro,Sony,10591
+PROD_754,Mobile Accessories,Loss Prime,Samsung,21602
+PROD_755,Mobile Accessories,Popular Pro,Apple,43647
+PROD_756,Sports,Chair Plus,Samsung,8337
+PROD_757,Mobile Accessories,Threat Plus,Apple,44040
+PROD_758,Sports,Line Ultra,OnePlus,22194
+PROD_759,Electronics,May Max,Samsung,29015
+PROD_760,Beauty,Trade Pro,Puma,49869
+PROD_761,Grocery,Discuss Prime,Nike,16837
+PROD_762,Sports,Late Pro,LG,15721
+PROD_763,Mobile Accessories,End Max,Samsung,3388
+PROD_764,Mobile Accessories,Throw Prime,Adidas,22057
+PROD_765,Sports,Tv Pro,Puma,22447
+PROD_766,Home Appliances,Letter Prime,Mi,44636
+PROD_767,Mobile Accessories,Build Max,Adidas,2626
+PROD_768,Sports,Have Plus,LG,3726
+PROD_769,Beauty,Those Plus,Mi,39814
+PROD_770,Grocery,His Plus,OnePlus,27461
+PROD_771,Sports,Up Ultra,OnePlus,44326
+PROD_772,Grocery,Find Ultra,Mi,41795
+PROD_773,Mobile Accessories,Open Pro,Samsung,14421
+PROD_774,Mobile Accessories,Election Max,Apple,43374
+PROD_775,Mobile Accessories,Gun Plus,Sony,45324
+PROD_776,Fashion,Discover Ultra,Sony,16238
+PROD_777,Fashion,Floor Pro,Apple,25514
+PROD_778,Grocery,Along Plus,LG,5148
+PROD_779,Fashion,Kid Ultra,Adidas,48033
+PROD_780,Beauty,Remember Ultra,Adidas,35796
+PROD_781,Home Appliances,Subject Plus,Nike,31997
+PROD_782,Sports,Information Max,Boat,48686
+PROD_783,Home Appliances,Necessary Ultra,LG,44774
+PROD_784,Fashion,He Plus,Apple,37981
+PROD_785,Mobile Accessories,Month Pro,Sony,41399
+PROD_786,Beauty,Data Pro,Samsung,25734
+PROD_787,Beauty,Day Max,Samsung,13450
+PROD_788,Home Appliances,Huge Plus,Puma,27369
+PROD_789,Home Appliances,Next Plus,OnePlus,8849
+PROD_790,Sports,Many Prime,Sony,541
+PROD_791,Electronics,Husband Plus,Samsung,19931
+PROD_792,Home Appliances,Attorney Pro,Adidas,424
+PROD_793,Grocery,Catch Max,Puma,21607
+PROD_794,Sports,Have Pro,LG,17000
+PROD_795,Beauty,Until Pro,Apple,43229
+PROD_796,Home Appliances,Story Ultra,Boat,26158
+PROD_797,Mobile Accessories,Thing Ultra,Mi,169
+PROD_798,Sports,Home Max,Apple,18704
+PROD_799,Fashion,Father Prime,Apple,10696
+PROD_800,Grocery,History Plus,Boat,9900
+PROD_801,Mobile Accessories,Clear Pro,Samsung,40695
+PROD_802,Mobile Accessories,Sometimes Plus,Nike,38945
+PROD_803,Beauty,Mrs Pro,Samsung,1553
+PROD_804,Electronics,Fine Max,Mi,745
+PROD_805,Grocery,Newspaper Plus,Mi,18141
+PROD_806,Mobile Accessories,Brother Pro,Samsung,9134
+PROD_807,Beauty,Paper Prime,Boat,12088
+PROD_808,Home Appliances,Success Pro,Mi,26160
+PROD_809,Home Appliances,Ready Ultra,Boat,22645
+PROD_810,Grocery,Black Prime,Puma,11243
+PROD_811,Electronics,Small Pro,Mi,7890
+PROD_812,Sports,Shoulder Max,Adidas,26984
+PROD_813,Fashion,Physical Max,Adidas,22707
+PROD_814,Mobile Accessories,Station Pro,OnePlus,32708
+PROD_815,Fashion,Prevent Ultra,OnePlus,12667
+PROD_816,Sports,Shake Plus,OnePlus,46029
+PROD_817,Beauty,But Ultra,Nike,14892
+PROD_818,Beauty,Second Prime,Boat,48582
+PROD_819,Sports,High Max,Samsung,37243
+PROD_820,Grocery,Guess Pro,Apple,1150
+PROD_821,Sports,Fill Max,Boat,17278
+PROD_822,Fashion,Better Max,Mi,42374
+PROD_823,Beauty,Memory Prime,LG,23456
+PROD_824,Fashion,Particularly Max,Mi,30039
+PROD_825,Fashion,Crime Plus,Mi,45368
+PROD_826,Fashion,Sell Max,Mi,40954
+PROD_827,Electronics,Clearly Plus,Apple,11358
+PROD_828,Grocery,Avoid Pro,Apple,7154
+PROD_829,Sports,Unit Plus,LG,49749
+PROD_830,Grocery,Woman Plus,Nike,6300
+PROD_831,Mobile Accessories,Until Ultra,Sony,34471
+PROD_832,Fashion,Boy Ultra,Sony,8561
+PROD_833,Grocery,None Plus,Sony,726
+PROD_834,Beauty,Speech Prime,Puma,12339
+PROD_835,Sports,Group Prime,Apple,28210
+PROD_836,Sports,Hope Plus,Puma,18883
+PROD_837,Fashion,School Ultra,Boat,7478
+PROD_838,Grocery,Ground Max,Mi,39852
+PROD_839,Grocery,Buy Max,Boat,31757
+PROD_840,Beauty,Hotel Ultra,Sony,39549
+PROD_841,Fashion,Institution Plus,Adidas,11874
+PROD_842,Fashion,Level Plus,Puma,29924
+PROD_843,Home Appliances,War Max,Puma,34260
+PROD_844,Home Appliances,Development Pro,Adidas,42287
+PROD_845,Fashion,Today Ultra,Puma,1443
+PROD_846,Electronics,Create Plus,OnePlus,38621
+PROD_847,Mobile Accessories,To Plus,Nike,43462
+PROD_848,Electronics,Task Plus,Sony,21415
+PROD_849,Grocery,Require Pro,Apple,27328
+PROD_850,Grocery,Resource Plus,Sony,7189
+PROD_851,Home Appliances,Popular Ultra,OnePlus,46014
+PROD_852,Grocery,Summer Plus,OnePlus,17669
+PROD_853,Sports,Minute Ultra,Mi,1064
+PROD_854,Beauty,Store Pro,Apple,18465
+PROD_855,Home Appliances,Similar Ultra,Mi,47293
+PROD_856,Fashion,Star Pro,Sony,21349
+PROD_857,Beauty,Reach Plus,Puma,27340
+PROD_858,Electronics,Thank Max,Adidas,33199
+PROD_859,Sports,Law Max,Adidas,47789
+PROD_860,Beauty,Moment Pro,Adidas,37207
+PROD_861,Grocery,Bit Prime,LG,1376
+PROD_862,Sports,Safe Pro,OnePlus,24092
+PROD_863,Mobile Accessories,Away Ultra,Mi,3773
+PROD_864,Grocery,Book Prime,OnePlus,43736
+PROD_865,Mobile Accessories,Federal Prime,Sony,31604
+PROD_866,Electronics,Expert Ultra,Boat,43628
+PROD_867,Mobile Accessories,Book Ultra,Adidas,23573
+PROD_868,Mobile Accessories,Wall Pro,Mi,35864
+PROD_869,Electronics,Late Ultra,Sony,27274
+PROD_870,Sports,Spend Ultra,LG,40569
+PROD_871,Beauty,Either Ultra,OnePlus,45361
+PROD_872,Electronics,Series Plus,Boat,27573
+PROD_873,Home Appliances,Standard Plus,Adidas,49395
+PROD_874,Grocery,Left Plus,LG,1828
+PROD_875,Grocery,Truth Plus,Boat,42356
+PROD_876,Grocery,Never Plus,Samsung,18052
+PROD_877,Grocery,South Pro,Adidas,38436
+PROD_878,Grocery,During Max,Samsung,14290
+PROD_879,Grocery,Phone Ultra,Nike,23781
+PROD_880,Mobile Accessories,Allow Prime,Puma,48697
+PROD_881,Beauty,Staff Plus,Apple,24734
+PROD_882,Grocery,Apply Pro,OnePlus,731
+PROD_883,Electronics,Center Ultra,Adidas,22275
+PROD_884,Home Appliances,Reduce Pro,OnePlus,33830
+PROD_885,Sports,Visit Pro,LG,16396
+PROD_886,Beauty,Film Prime,Nike,12396
+PROD_887,Fashion,Impact Max,Adidas,45488
+PROD_888,Electronics,Out Ultra,Adidas,44211
+PROD_889,Home Appliances,Simply Ultra,Mi,35800
+PROD_890,Beauty,Perhaps Max,Samsung,5483
+PROD_891,Mobile Accessories,Lead Plus,LG,24091
+PROD_892,Beauty,Ready Plus,Sony,30824
+PROD_893,Grocery,Assume Ultra,Boat,13470
+PROD_894,Mobile Accessories,Yard Ultra,LG,28813
+PROD_895,Mobile Accessories,Control Plus,Adidas,17176
+PROD_896,Grocery,Attorney Ultra,Nike,13503
+PROD_897,Home Appliances,City Prime,Samsung,1720
+PROD_898,Home Appliances,Live Plus,Boat,3289
+PROD_899,Grocery,But Ultra,Adidas,45459
+PROD_900,Sports,Certainly Plus,Samsung,25505
+PROD_901,Beauty,Quite Plus,Boat,29366
+PROD_902,Mobile Accessories,Place Pro,OnePlus,40606
+PROD_903,Electronics,Town Prime,LG,36545
+PROD_904,Fashion,Us Max,Mi,15951
+PROD_905,Home Appliances,Up Prime,Nike,15543
+PROD_906,Mobile Accessories,Probably Pro,Mi,20235
+PROD_907,Sports,Garden Prime,Nike,28912
+PROD_908,Beauty,Wife Ultra,Boat,11100
+PROD_909,Beauty,Drive Plus,Nike,21112
+PROD_910,Electronics,Clearly Ultra,OnePlus,16950
+PROD_911,Electronics,Avoid Plus,Boat,13454
+PROD_912,Electronics,Eight Plus,Puma,30670
+PROD_913,Beauty,Many Pro,Puma,24376
+PROD_914,Electronics,Cover Prime,Adidas,35937
+PROD_915,Beauty,In Ultra,Adidas,6922
+PROD_916,Grocery,Final Pro,LG,24032
+PROD_917,Beauty,Ball Plus,Boat,36725
+PROD_918,Mobile Accessories,Send Pro,LG,10971
+PROD_919,Beauty,Scientist Pro,Puma,16701
+PROD_920,Electronics,If Plus,Puma,22870
+PROD_921,Sports,Star Max,OnePlus,9905
+PROD_922,Sports,Beat Ultra,Mi,37506
+PROD_923,Beauty,Tend Ultra,LG,49901
+PROD_924,Beauty,Him Prime,Sony,38508
+PROD_925,Fashion,Away Ultra,Sony,16135
+PROD_926,Home Appliances,Go Plus,Samsung,14001
+PROD_927,Sports,Open Pro,Samsung,36063
+PROD_928,Fashion,Food Prime,Nike,44563
+PROD_929,Home Appliances,Affect Ultra,LG,37879
+PROD_930,Home Appliances,Talk Ultra,Nike,40302
+PROD_931,Fashion,Without Plus,Puma,24367
+PROD_932,Beauty,Once Prime,Adidas,41746
+PROD_933,Fashion,With Pro,Puma,2017
+PROD_934,Electronics,Mr Max,Samsung,13745
+PROD_935,Mobile Accessories,Improve Plus,Sony,23092
+PROD_936,Grocery,Chance Ultra,Nike,12268
+PROD_937,Sports,Carry Max,OnePlus,29623
+PROD_938,Beauty,Whom Prime,Nike,43720
+PROD_939,Mobile Accessories,Law Max,Boat,39316
+PROD_940,Grocery,Contain Ultra,OnePlus,30961
+PROD_941,Electronics,Well Max,Mi,17027
+PROD_942,Beauty,Choose Ultra,Nike,5104
+PROD_943,Sports,Our Prime,Puma,7692
+PROD_944,Fashion,Three Prime,Adidas,38009
+PROD_945,Home Appliances,Improve Plus,Adidas,39519
+PROD_946,Home Appliances,Event Ultra,Puma,12412
+PROD_947,Electronics,Matter Plus,Puma,24332
+PROD_948,Beauty,Southern Prime,Sony,2317
+PROD_949,Home Appliances,Be Prime,LG,9347
+PROD_950,Electronics,When Prime,Mi,27717
+PROD_951,Fashion,More Plus,Puma,13451
+PROD_952,Home Appliances,Answer Max,Sony,36424
+PROD_953,Fashion,Case Plus,Nike,34032
+PROD_954,Mobile Accessories,Become Prime,Sony,13297
+PROD_955,Beauty,Cause Pro,Boat,13267
+PROD_956,Sports,Leave Pro,Adidas,1372
+PROD_957,Grocery,Rule Max,Sony,5270
+PROD_958,Electronics,Provide Plus,Apple,25355
+PROD_959,Mobile Accessories,Television Plus,Apple,40787
+PROD_960,Electronics,Argue Prime,Adidas,5972
+PROD_961,Beauty,Evidence Max,Puma,30616
+PROD_962,Fashion,Effort Plus,OnePlus,42044
+PROD_963,Home Appliances,Several Plus,Sony,33773
+PROD_964,Home Appliances,Despite Pro,Sony,33457
+PROD_965,Beauty,Trade Pro,Sony,6246
+PROD_966,Beauty,Final Max,Sony,20954
+PROD_967,Sports,Long Pro,OnePlus,17759
+PROD_968,Home Appliances,Focus Pro,OnePlus,49670
+PROD_969,Beauty,All Prime,Sony,6112
+PROD_970,Grocery,Animal Plus,Mi,14673
+PROD_971,Fashion,Leg Plus,LG,21822
+PROD_972,Beauty,Available Plus,Adidas,33339
+PROD_973,Sports,Even Ultra,Nike,28788
+PROD_974,Mobile Accessories,Trip Pro,Sony,34750
+PROD_975,Fashion,Be Ultra,Mi,44379
+PROD_976,Mobile Accessories,Participant Pro,OnePlus,38013
+PROD_977,Home Appliances,Head Max,OnePlus,9549
+PROD_978,Sports,Recent Prime,Adidas,25627
+PROD_979,Fashion,Admit Prime,Mi,43636
+PROD_980,Sports,Tv Ultra,Apple,7715
+PROD_981,Home Appliances,Industry Max,Nike,16684
+PROD_982,Beauty,Themselves Plus,Samsung,11424
+PROD_983,Electronics,Bit Max,Puma,31857
+PROD_984,Home Appliances,Still Prime,Nike,40377
+PROD_985,Grocery,Enter Plus,Samsung,45132
+PROD_986,Grocery,Few Pro,Nike,43856
+PROD_987,Electronics,Various Pro,Apple,4938
+PROD_988,Electronics,Edge Pro,Samsung,3010
+PROD_989,Sports,Their Pro,Adidas,35479
+PROD_990,Electronics,Blood Pro,Nike,14320
+PROD_991,Mobile Accessories,Party Ultra,Apple,8649
+PROD_992,Beauty,Professor Pro,Adidas,17387
+PROD_993,Beauty,Necessary Ultra,Samsung,43525
+PROD_994,Beauty,Condition Max,Adidas,5404
+PROD_995,Mobile Accessories,Statement Ultra,OnePlus,19406
+PROD_996,Beauty,Team Plus,Samsung,1238
+PROD_997,Mobile Accessories,Than Ultra,Nike,44455
+PROD_998,Grocery,However Prime,Puma,26507
+PROD_999,Electronics,Address Max,Apple,15418
+PROD_1000,Electronics,Realize Pro,Adidas,42267
